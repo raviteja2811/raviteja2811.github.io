@@ -6,7 +6,8 @@
 
 body{
 
-    background: #55ffe5;
+    /*background: #55ffe5;*/
+    background:whitesmoke;
     font-size: 14px;
     font-family: 'Poppins', sans-serif;
 }
@@ -35,6 +36,7 @@ body{
 }
 h1{
     margin-bottom: 10px;
+    color:red;
 }
 .container p{
     margin-bottom: 10px;
